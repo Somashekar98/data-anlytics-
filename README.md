@@ -1,4 +1,4 @@
-# data-anlytics-
+# data-analytics-
 --final week answer
 --run firat block 
 --run second block and upload any .txt file
